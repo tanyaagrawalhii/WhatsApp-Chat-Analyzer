@@ -22,16 +22,6 @@ The ***WhatsApp Chat Analyzer*** is a powerful tool that helps users analyze the
 
 - ***Streamlit UI:*** A user-friendly interface to interact with chat analysis results.
 
-## 📂 Project Structure
-
-WhatsApp Chat Analyzer/
-│── app.py                # Main Streamlit application
-│── helper.py             # Helper functions for analysis
-│── requirements.txt      # Required dependencies
-│── stop_hinglish.txt     # Stop words file
-│── sample_chat.txt       # Sample WhatsApp chat data
-│── README.md             # Project documentation
-
 ## 🛠️ Technologies Used
 
 - ***Python:*** Core programming language.
