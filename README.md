@@ -1,6 +1,6 @@
 # WhatsApp-Chat-Analyzer
 
-📌 Overview
+## 📌 Overview
 
 The WhatsApp Chat Analyzer is a powerful tool that helps users analyze their WhatsApp chat history. It provides insights such as word frequency, emoji usage, message activity trends, and more, allowing users to better understand their chat patterns.
 
